@@ -3,4 +3,4 @@ Belajar GIT
 -setiap hari melakukan pembelajaran
 -praktik dilakukan setiap hari juga
 -saya memiliki cita-cita menjadi programmer
--saya ingin dapat membuat program pembukuan
+-saya ingin membuat aplikasi yang terintegrasi
