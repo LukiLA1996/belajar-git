@@ -2,3 +2,5 @@ Belajar GIT
 -mempelajari konsisten dari berbagai sumber
 -setiap hari melakukan pembelajaran
 -praktik dilakukan setiap hari juga
+-saya memiliki cita-cita menjadi programmer
+-saya ingin dapat membuat program pembukuan
